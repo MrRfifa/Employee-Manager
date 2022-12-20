@@ -1,7 +1,5 @@
 # Employee-Manager
 A react spring boot application for managing employees
-![image](https://user-images.githubusercontent.com/101003527/208687835-653528aa-4f49-4c30-aacf-fd28656dc7f6.png)
-
 
 
 ![image](https://user-images.githubusercontent.com/101003527/208687363-ccd9879f-82c3-462d-9a28-4c74929f0b6d.png)
