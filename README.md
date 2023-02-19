@@ -45,10 +45,3 @@ Start the server
 ![App Screenshot](https://user-images.githubusercontent.com/101003527/208687469-e20dbf29-b419-4d23-830b-3e707f55c632.png)
 ![App Screenshot](https://user-images.githubusercontent.com/101003527/208687561-3fe4c028-fa41-45ec-bb24-35938cd4d07c.png)
 ![App Screenshot](https://user-images.githubusercontent.com/101003527/208687646-8efab731-df0f-42d1-a74b-df1de90253a2.png)
-
-
-# Uploading files to Amazon S3
-
-The project is a basic employee management system that allows users to create, read, update, and delete employee records. The backend is built using SpringBoot, while the frontend is built using React.
-
-
